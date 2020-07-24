@@ -156,7 +156,7 @@ public struct Regift {
     }
 
     private struct Constants {
-        static let FileName = "regift.gif"
+        static let FileName = "A gif with a progress bar.gif"
         static let TimeInterval: Int32 = 600
         static let Tolerance = 0.01
     }
